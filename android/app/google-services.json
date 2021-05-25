@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816742226982",
+    "project_id": "lessmess-edba4",
+    "storage_bucket": "lessmess-edba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816742226982:android:92da586156d15abfecdae7",
+        "android_client_info": {
+          "package_name": "com.example.lessmess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816742226982-d309ttbrk4bed1ofdgh3n49k07qfhldc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGYDL5lzMWq0u-On7Jfls7nA9tf-3mKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816742226982-d309ttbrk4bed1ofdgh3n49k07qfhldc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
